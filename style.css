@@ -1,0 +1,66 @@
+header{
+    margin-left:250px;
+    margin-right: 250px;
+    
+}
+header img{
+    width:100%;
+    
+}
+
+header nav ul li
+{
+    list-style: none;
+    float: left;
+    color: white;
+    width: 33%;
+    background: #7E6F15;
+}
+
+header nav ul li a
+{
+    color:white;
+}
+
+section article h3{
+    text-align: center;
+}
+
+
+section article p{
+    text-align: center;
+    padding-left: 350px;
+    padding-right: 350px;
+}
+
+section article h1{
+    text-align: center;
+    font-size: 50px;
+}
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.paragraph{
+    margin-left: 350px;
+    margin-right: 350px;
+}
+
+.content{
+    display: flex;
+    margin-left: 350px;
+    margin-right: 350px;
+    margin-top: 25px;
+}
+
+.secondary{
+    background-color: black;
+    color: white;
+}
+
+.footer{
+    margin-left: 350px;
+    margin-right: 550px;
+}

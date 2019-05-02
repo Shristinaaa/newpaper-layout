@@ -71,6 +71,11 @@ section article h1{
 
 .footer{
     margin-left: 350px;
-    margin-right: 250px;
+    margin-right: 350px;
     display: flex;
+}
+
+.footer img{
+    height:33px;
+    margin-top: 15px;
 }

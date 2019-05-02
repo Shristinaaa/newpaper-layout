@@ -8,7 +8,7 @@ header img{
     
 }
 
-header nav ul li
+.nav ul li
 {
     list-style: none;
     float: left;
@@ -17,14 +17,27 @@ header nav ul li
     background: #7E6F15;
 }
 
-header nav ul li a
+.nav ul li a
 {
     color:white;
 }
 
+
+
 section article h3{
     text-align: center;
 }
+h4{
+    margin:10px 0 0 0;
+    padding:0px;
+    text-align: center;
+}
+h3,h1{
+    margin: 0px;
+    padding: 0px;
+}
+
+
 
 
 section article p{
